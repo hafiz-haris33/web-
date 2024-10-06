@@ -1,4 +1,4 @@
 # web-
 my second git repositry.
 <br>
-author - hafiz haris
+author - Hafiz M. Haris
